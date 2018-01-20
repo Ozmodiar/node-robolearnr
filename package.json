@@ -1,0 +1,15 @@
+{
+  "name": "robolearnr",
+  "version": "1.0.0",
+  "description": "SDK for Robolearnr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ozmodiar/node-robolearnr.git"
+  },
+  "author": "Joeri van Dooren <joeri.vandooren@gmail.com> (https://github.com/Ozmodiar)",
+  "license": "MIT"
+}
